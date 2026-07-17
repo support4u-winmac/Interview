@@ -6,6 +6,8 @@
 ### From 8 AM to 6 PM EST:
 - 0  - 30 min: $120
 - 30 - 60 min: $150
+- 60 - 90 min: $200 
+- 90 - 120min: $250
 
 # Loop Calls
 - SDE-1 - Flat  900 for (3 Calls)
